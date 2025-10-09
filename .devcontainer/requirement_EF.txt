@@ -1,0 +1,6 @@
+pip install streamlit
+scikit-learn
+numpy
+woe-scoring
+pip install statsmodels
+prophet
